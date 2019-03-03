@@ -23,9 +23,7 @@ All the code in this version is in one script, and you can see several instances
 1. For _Experiment_  or _MIP_ documents, outputting a one or two column table, and
 2. Creating a table which describes CMIP6.
 
-An example [^fn] of the first is: ![expected_output/doubleExperiment.pdf](expected_output/double_cropped.jpg)
-
-[^fn]: Note that this is a poor quality jpg rendering of the [actual pdf](expected_output/double_cropped.pdf) in the repository. The workflow for this was to crop the [original pdf](expected_output/double.pdf) output using pdf-crop-margins, then convert to jpg using an [online converter](http://convert-my-image.com/PdfToJpg) (my usual goto for this sort of work, ImageMagick, didn't like the grayscale).
+An example<sup>[1](#fn1)</sup> of the first is: ![expected_output/doubleExperiment.pdf](expected_output/double_cropped.jpg)
 
 #### Changing the Layout and Developing New Capability
 
@@ -39,6 +37,9 @@ Users who want to change the layout of the tables, or develop new tables will ne
 #### Acknowledgements
 
 This would not have been possible without some initial help from [Mark Greenslade](https://github.com/momipsl), the author of pyesdoc.
+
+<a name="fn1">[1]</a>:  Note that this is a poor quality jpg rendering of the [actual pdf](expected_output/double_cropped.pdf) in the repository. The workflow for this was to crop the [original pdf](expected_output/double.pdf) output using pdf-crop-margins, then convert to jpg using an [online converter](http://convert-my-image.com/PdfToJpg) (my usual goto for this sort of work, ImageMagick, didn't like the grayscale).
+
 
 
 
