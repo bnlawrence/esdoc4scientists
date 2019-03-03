@@ -36,6 +36,10 @@ Users who want to change the layout of the tables, or develop new tables will ne
 * A key concept you will need to deal with is that the documents are all linked together. As you navigate around them pythonically you will get the title and uid and types of other documents in links (e.g. the Experiment references _Requirements_), and sometimes you will need to pull the full description of those via the UID. Code to do this is included. Note how the additional requirements [are found](https://github.com/bnlawrence/esdoc4scientists/blob/ad64f25f111ff7f7a3b6d1de3d96ebe6a89eaeb0/experiment.py#L226) for the example above.
 *  If you get some new things working please contribute them back here!
 
+#### Acknowledgements
+
+This would not have been possible without some initial help from [Mark Greenslade](https://github.com/momipsl), the author of pyesdoc.
+
 
 
 
