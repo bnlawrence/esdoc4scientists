@@ -2,6 +2,8 @@
 
 Repository of tools for manipulating information held in an ESDOC repository to make tables for scientific publications.
 
+If you use it, please cite: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2593445.svg)](https://doi.org/10.5281/zenodo.2593445)
+
 Contributions welcome, please generate a pull request if you have some more examples to add.
 
 #### Version 1
